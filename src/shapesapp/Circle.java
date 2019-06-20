@@ -7,8 +7,7 @@ package shapesapp;
 
 /**
  *
- * @author made by jeel
- * learning to push
+ * @author jeel patel
  * 
  */
 public class Circle extends Shape {
